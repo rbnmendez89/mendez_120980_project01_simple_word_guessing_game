@@ -1,3 +1,8 @@
+#Ruben Jr. Mendez Rodriguez #120980
+#We started with the first part the simple game and now we work it to be a GUI
+#The game instructions are in the README
+	
+
 from tkinter import *
 from tkinter import messagebox
 import tkinter
