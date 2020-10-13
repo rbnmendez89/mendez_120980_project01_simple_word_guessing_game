@@ -12,6 +12,8 @@ The project consist of a 3-letter word game. To find the letters click on the wh
 
 #A simple buttonpress operation used in game to execute the instructions. message commands ae used to display messages when a person wins or loose.
 
-#Reference:I got help to make the GUI https://levelup.gitconnected.com/learn-python-by-building-a-gui-guessing-game-with-tkinter-9f82291db6
+#Reference:I got help to make the GUI link: https://levelup.gitconnected.com/learn-python-by-building-a-gui-guessing-game-with-tkinter-9f82291db6
 
-#Reference:I got help to make the simple game on the web https://stackoverflow.com/questions/ #Direct link https://stackoverflow.com/questions/26047343/word-guessing-game-in-python
+#Reference:I got help to make the simple game on the web https://stackoverflow.com/questions/ #Direct link: https://stackoverflow.com/questions/26047343/word-guessing-game-in-python
+
+#Reference link:https://medium.com/issuehunt/13-python-gui-libraries-a6196dfb694
