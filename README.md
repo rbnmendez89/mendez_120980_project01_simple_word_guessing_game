@@ -1,4 +1,5 @@
 #A simple word guessing game in python
+#I Worked the game in IDEl Python 3.8.6
 
 #Game instructions:
 
